@@ -19,3 +19,4 @@ plink --file testdata --make-bed --out testdata
 plink --bfile testdata --chr 21 --out test21
 
 #########END###########
+123
